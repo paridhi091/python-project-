@@ -34,8 +34,8 @@
 
 ---
 
-## 🚀 Steps to Install & Run the Project
+##  Steps to Install & Run the Project
 
-### *1️⃣ Clone the Repository*
+### * Clone the Repository*
 ```bash
 git clone https://github.com/your-username/unit-converter.git
