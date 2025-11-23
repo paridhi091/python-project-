@@ -58,6 +58,10 @@ Without crashing, the program ought to display an error message.
 5. Flow of the Test Program
 Make sure the exit option functions and the menu repeats correctly.
 
+**License**
+  
+ This project is open-source and available for educational purposes. 
+
 ### * Clone the Repository*<img width="1908" height="997" alt="Screenshot 2025-11-23 162858" src="https://github.com/user-attachments/assets/9ce6899f-024c-4947-8a0d-b72f4e259e7d" />
 <img width="473" height="280" alt="Screenshot 2025-11-23 162115" src="https://github.com/user-attachments/assets/1f0601ae-b865-4e0c-b2c9-686267426d18" />
 <img width="662" height="299" alt="Screenshot 2025-11-23 162312" src="https://github.com/user-attachments/assets/299862ed-6869-4ef7-8626-9da79592211d" />
